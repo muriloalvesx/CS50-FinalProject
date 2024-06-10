@@ -120,5 +120,5 @@ Static Files Management: By separating CSS and JavaScript into distinct files, t
 </div><br>
 
 <div style="display: flex"><br/>
-<img align="center"  alt="todo"src="https://github.com/muriloalvesx/ListaDeTarefas/assets/153781890/e5003910-6149-428c-acbc-f20fa8854faf" width="580px"/>
-<img align="center"  alt="db"src="https://github.com/muriloalvesx/ListaDeTarefas/assets/153781890/2face8b3-0ca6-474c-867c-e9a2eb80284d" width="380px"/>
+<img align="center"  alt="todo"src="https://github.com/muriloalvesx/ListaDeTarefas/assets/153781890/e5003910-6149-428c-acbc-f20fa8854faf" width="550px"/>
+<img align="center"  alt="db"src="https://github.com/muriloalvesx/ListaDeTarefas/assets/153781890/2face8b3-0ca6-474c-867c-e9a2eb80284d" width="350px"/>
